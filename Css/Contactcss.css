@@ -1,0 +1,21 @@
+.Content{
+	background-image: url('../images/8.jpg');
+}
+.Content h1{
+	font-family:Chiller; 
+	font-size: 30px;
+	text-align: center;
+	padding-bottom: 50px;
+	padding-top: 100px;
+}
+.Detail_box{
+	background-color: white;
+	opacity: 0.7;
+	width: 60%;
+	height: 400px;
+	margin-left: 20%;
+
+}
+.border_box{
+	border:1px solid black;
+}
